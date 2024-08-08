@@ -1,0 +1,24 @@
+{
+  "arrivals": [
+    {
+      "image": "https://imgur.com/iKyciPw",
+      "name": "Transparent Labs Multi",
+      "description": "This multivitamin is designed to support overall wellness and energy levels. It stands out for its high doses of essential vitamins and minerals, along with additional ingredients like ashwagandha for stress relief and CoQ10 for heart health."
+    },
+    {
+      "image": "https://imgur.com/GeaDbEX",
+      "name": "Garnier Fructis No-Rinse Conditioner",
+      "description": "The Garnier Fructis No-Rinse Conditioner is designed to simplify hair care routines. This leave-in conditioner provides several benefits, like nourishment and hydration, making it a convenient and effective product for a variety of hair types."
+    },
+    {
+      "image": "https://imgur.com/AaYtbTI",
+      "name": "Mundicare Burnaid Burn Gel",
+      "description": "Mundicare Burnaid Burn Gel is a specialized first aid product designed to provide immediate relief and aid in the treatment of minor burns, scalds, and sunburns. It is formulated to cool the affected area, alleviate pain, and help prevent infections."
+    },
+    {
+      "image": "https://imgur.com/pQbaloo",
+      "name": "Mustela Hydra Bébé Body Lotion",
+      "description": "Mustela Hydra Bébé Body Lotion is a gentle, hydrating lotion for babies. It is hypoallergenic and free from parabens, making it suitable for sensitive skin. The lotion absorbs quickly, leaving the skin soft and moisturized."
+    }
+  ]
+}
